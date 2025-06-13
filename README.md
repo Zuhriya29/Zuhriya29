@@ -1,5 +1,7 @@
 <h1 style="margin-bottom: 10px;">Hi There I'm Tasbi Khatuz Zuhriya 👋 </h1>
 
+###
+
 ![images](/images/Hitam%20dan%20Putih%20Sederhana%20Programmer%20Linkedin%20Article%20Cover%20Image.png)
 <!--
 **Zuhriya29/Zuhriya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +20,19 @@ Here are some ideas to get you started:
 
 <p style="margin: 50px 0px"></p>
 
+###
+
 - **👩‍💻 Aspiring Web Developer & UI / UX Designer**  
 - 🚀 **Highly interested in pursuing a career in Web Development and UI/UX Design**  
 - 🎓 **Information Systems | Universitas Nusantara PGRI Kediri**  
 - 💡 **Passionate about turning ideas into interactive solutions**
 - 🌱 **Eager to learn, curious by nature, and quick to adapt to new technologies and tools**
 
+###
+
 <h3 style="margin: 50px auto">💻 Skills</h3>
+
+###
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
@@ -72,7 +80,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+###
+
 <h3 style="margin: 50px auto">💬 Connect With Me</h3>
+
+###
 
 <div align="left">
   <a href="https://www.instagram.com/tasbi.khz_29/" target="_blank">
@@ -83,7 +95,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+###
+
 <h3 style="margin: 50px auto">🔥 My Github Stats</h3>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zuhriya29&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -92,10 +108,17 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuhriya29&radius=16&theme=react&area=true&order=5&line=FE428E&point=FE428E&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zuhriya29/Zuhriya29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zuhriya29/Zuhriya29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zuhriya29/Zuhriya29/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <img src="https://raw.githubusercontent.com/Zuhriya29/Zuhriya29/output/snake.svg" alt="Snake animation" />
+
+###
