@@ -1,9 +1,5 @@
 <h1 style="margin-bottom: 30px;">Hi There I'm Tasbi Khatuz Zuhriya 👋 </h1>
 
-<p align="center" style="margin: 50px auto; width: 350px; display: flex; justify-content: center;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU2aGs3ZzJ1NzBiNWQ2MXphZ2xjY2hjdWJ4b21seTFvZXo3ZG53YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZiPcuOQn9WizpLZ9Fg/giphy.gif" alt="hai" />
-</p>
-
 ![images](/images/Hitam%20dan%20Putih%20Sederhana%20Programmer%20Linkedin%20Article%20Cover%20Image.png)
 <!--
 **Zuhriya29/Zuhriya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
